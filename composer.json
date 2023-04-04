@@ -1,0 +1,10 @@
+{
+    "name": "package/doc-templater",
+    "type": "library",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "DocTemplater\\": "src/"
+        }
+    }
+}
